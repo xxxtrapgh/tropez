@@ -14,7 +14,7 @@ const allowedOrigins = [
   'https://trap-way.infy.click',
   'https://bellbusinesscanada.netlify.app',
   'https://sunny-pastelito-8843b7.netlify.app',
-  'https://viralbell.netlify.app',
+  'https://freetraw.ifree.page',
   'https://jhvnb.vercel.app',
    // add all your trusted frontends here
 ];
